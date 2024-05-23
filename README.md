@@ -18,7 +18,7 @@
 <br>
 
 ## Description
-<stl src="stl/qi_coil_021_04.stl">
+<img src="stl/qi_coil_021_04.stl">
 
 
 <br>
