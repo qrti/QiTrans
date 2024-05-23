@@ -19,9 +19,6 @@
 
 ## Description
 
-```stl
-stl/qi_coil_021_04.stl
-```
 
 <br>
 
