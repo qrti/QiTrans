@@ -18,8 +18,10 @@
 <br>
 
 ## Description
-<img src="stl/qi_coil_021_04.stl">
 
+```stl
+stl/qi_coil_021_04.stl
+```
 
 <br>
 
