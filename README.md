@@ -18,8 +18,7 @@
 <br>
 
 ## Description
-
-<script src="https://embed.github.com/view/3d/qrti/QiTrans/master/stl/qi_coil_021_04.stl"></script>
+<stl src="stl/qi_coil_021_04.stl">
 
 
 <br>
