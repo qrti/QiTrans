@@ -23,8 +23,8 @@ An inexpensive AVR ATTINY13A and a self made flat coil
 
 <img src="images/05_coils.jpg" width=480><br>
 
-<img src="images/03_coil_re_top.jpg" width=480><br>
-<img src="images/04_coil_re_bot.jpg" width=480><br>
+<img src="images/06_coil_21_re_top.png" width=480><br>
+<img src="images/07_coil_21_re_bot.png" width=480><br>
 
 <img src="images/02_electronic.jpg" width=480><br>
 <img src="images/08_ferro_foil.jpg" width=480><br>
