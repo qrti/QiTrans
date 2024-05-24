@@ -28,6 +28,13 @@ Schematic (click to enlarge)
 <br>
 
 # Flat Coil  
+Two STL files for coils are in the repository, the 3d printer nozzle diameter  
+for these prints must be 0.4 mm, you can try to fabricate more dense coils  
+with 0.2 mm nozzles  
+[-> wire 0.21 mm nozzle 0.4 mm](stl/qi_coil_021_04.stl)  
+[-> wire 0.3 mm nozzle 0.4 mm](stl/qi_coil_03_04.stl)
+<br>
+
 Some Examples, a commercial available flat coil, a self winded round one  
 a coil extracted from a hard disk and a self made oval one  
 <img src="images/05_coils.jpg" width=480>
@@ -43,15 +50,8 @@ Bottom side with groove to lead the wire outside
 <img src="images/07_coil_21_re_bot.png" width=480>
 <br>
 
-Two STL files for coils are in the repository  
-the 3d printer nozzle diameter for these prints must be 0.4 mm  
-you can try to fabricate more dense coils with 0.2 mm nozzles  
-[-> wire 0.21 mm nozzle 0.4 mm](stl/qi_coil_021_04.stl)  
-[-> wire 0.3 mm nozzle 0.4 mm](stl/qi_coil_03_04.stl)
-<br>
-
-While commercial available flat coils are able to deliver some ampere,  
-these self made coils are cheap and easy to wind but will deliver some 100 mA only  
+While commercial available flat coils are able to deliver some ampere, these  
+self made coils are cheap and easy to wind but will deliver some 100 mA only  
 <img src="images/03_coil_oc_top.jpg" width=480>
 <br>
 
