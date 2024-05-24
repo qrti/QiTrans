@@ -34,9 +34,10 @@ with 0.2 mm nozzles
 [-> wire 0.21 mm nozzle 0.4 mm](stl/qi_coil_021_04.stl)  
 [-> wire 0.3 mm nozzle 0.4 mm](stl/qi_coil_03_04.stl)
 <br>
+<br>
 
-Some Examples, a commercial available flat coil, a self winded round one  
-a coil extracted from a hard disk and a self made oval one  
+Some examples for flat coils, a commercial available flat coil, a self winded  
+round one a coil extracted from a hard disk and a self made oval one  
 <img src="images/05_coils.jpg" width=480>
 <br>
 
