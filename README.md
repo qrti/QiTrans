@@ -1,10 +1,6 @@
 # **QI Transmission**
 
 ### Wireless Energy Transmission
-
-> [!WARNING]
-> Page Under Construction
-
 <br>
 
 <img src="images/01_title.jpg" width=480><br>
